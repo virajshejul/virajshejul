@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Viraj Shejul
 **Frontend Developer** · **AI Enthusiast** · Building clean & interactive web apps.
 
-[![Website](https://img.shields.io/badge/portfolio-visit-blue?style=for-the-badge&logo=google-chrome)](https://virajshejul.github.io/portfolio)
+[![Website](https://img.shields.io/badge/portfolio-visit-blue?style=for-the-badge&logo=google-chrome)](https://virajshejul.github.io/viraj-portfolio)
 [![Email](https://img.shields.io/badge/email-vshejul054@mail.com-red?style=for-the-badge&logo=gmail)](mailto:vshejul054@mail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/viraj-shejul-83358a367)
 [![GitHub](https://img.shields.io/badge/github-Follow-black?style=for-the-badge&logo=github)](https://github.com/VirajShejul)
