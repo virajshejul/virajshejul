@@ -1,263 +1,259 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     VIRAJ SHEJUL — FUTURISTIC GITHUB PROFILE
-     Replace all placeholders marked with YOUR_
-════════════════════════════════════════════════════════════════ --><!-- ========================= HERO ========================= --><div align="center"><a href="YOUR_PORTFOLIO_URL">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:111827,100:020617&text=VIRAJ%20SHEJUL&fontColor=00F5FF&fontSize=55&fontAlignY=42&desc=FRONTEND%20DEVELOPER%20%7C%20AI%20ENTHUSIAST%20%7C%20FULL-STACK%20EXPLORER&descAlignY=64&descSize=15&descColor=A78BFA&animation=twinkling" width="100%" />
-</a><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=750&lines=Building+interactive+web+experiences...;Exploring+React+%26+Node.js...;Learning+AI-powered+development...;Turning+ideas+into+real+products..." /><br/><br/>
+<div align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/%E2%9A%A1%20PORTFOLIO-00F5FF?style=for-the-badge&logoColor=050816" />
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=00F5FF" />
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=FF4DFF" />
-</a><br/><br/>
+<!-- ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=VIRAJ%20SHEJUL&fontSize=60&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Full-Stack%20Explorer&descAlignY=58&descSize=18&descAlign=50" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00F5FF&style=flat-square" /></div><br/><!-- ========================= HERO VISUAL ========================= --><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00F5FF" width="80%" /><br/>                    ╔══════════════════════════════════════╗
-                    ║   SYSTEM ONLINE // VIRAJ.DEV        ║
-                    ║                                      ║
-                    ║   > BUILD                            ║
-                    ║   > CREATE                           ║
-                    ║   > EXPLORE                          ║
-                    ║   > SHIP                             ║
-                    ║                                      ║
-                    ║   STATUS: ████████████ ONLINE        ║
-                    ╚══════════════════════════════════════╝
+<!-- TYPING ANIMATION -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&height=60&lines=Building+interactive+web+experiences...;Exploring+React+%26+Node.js...;Learning+AI-powered+development...;Turning+ideas+into+real+products..." alt="Typing SVG" />
+</a>
 
-</div><br/><!-- ========================= ABOUT ========================= --><h2 align="center">◈ ABOUT ME</h2><div align="center"><table>
+<br/>
+
+<!-- ACTION BUTTONS -->
+<a href="https://your-portfolio-url.com">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-0f0c29?style=for-the-badge&logo=vercel&logoColor=00F7FF&labelColor=000000" />
+</a>
+<a href="https://linkedin.com/in/your-linkedin-id">
+  <img src="https://img.shields.io/badge/LINKEDIN-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00F7FF&labelColor=000000" />
+</a>
+<a href="https://github.com/your-github-username">
+  <img src="https://img.shields.io/badge/GITHUB-0f0c29?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=000000" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/EMAIL-0f0c29?style=for-the-badge&logo=gmail&logoColor=00F7FF&labelColor=000000" />
+</a>
+
+<br/><br/>
+
+<!-- ANIMATED HERO VISUAL -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/DBZ_Goku.gif" width="45%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,100:8a2be2&height=3&width=100%" />
+
+## 🧬 ABOUT ME
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">"01 // WHO AM I"
+<td width="60%" valign="top">
 
-I'm Viraj Shejul, a BCA student and developer focused on building modern, responsive and interactive digital experiences.
+```yaml
+name: "Viraj Shejul"
+role: "Frontend Developer"
+education: "BCA Student"          # ← update if graduated
+focus:
+  - Building responsive, high-performance websites
+  - Learning React, Node.js, Express.js & MongoDB
+  - Exploring AI-integrated applications
+  - Crafting creative UI & interactive experiences
+mindset: "Ship fast. Learn faster. Design boldly."
+```
 
-I enjoy combining clean frontend engineering with creative UI, animation and emerging AI technologies.
+</td>
+<td width="40%" valign="top" align="center">
 
-</td><td width="50%" valign="top">"02 // WHAT I DO"
-
-- ⚡ Build responsive web applications
-- 🎨 Create modern interactive interfaces
-- ⚛️ Explore React & Next.js
-- 🟢 Build APIs with Node.js & Express
-- 🗄️ Work with MongoDB & SQL
-- 🤖 Explore AI-integrated applications
-- 🧪 Experiment with creative web technologies
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
 </td>
 </tr>
-</table></div><br/><div align="center">"FRONTEND"   "FULL-STACK"   "AI"   "CREATIVE UI"   "WEB EXPERIENCES"
+</table>
 
-</div><br/><!-- ========================= TECH STACK ========================= --><h2 align="center">◈ TECH ARSENAL</h2><div align="center">"FRONTEND"
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a2be2,100:00f7ff&height=3&width=100%" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" /><br/><br/>
+## ⚡ TECH STACK
 
-"BACKEND"
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br/><br/>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
 
-"PROGRAMMING"
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=js,python,c,cpp" /><br/><br/>
+**Programming Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,python,c,cpp&theme=dark" />
 
-"TOOLS"
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" /><br/><br/>
+**Creative / Motion**
+<br/>
+<img src="https://skillicons.dev/icons?i=threejs&theme=dark" />
+<img src="https://img.shields.io/badge/GSAP-0f0c29?style=for-the-badge&logo=greensock&logoColor=00F7FF&labelColor=000000" />
+<img src="https://img.shields.io/badge/LENIS-0f0c29?style=for-the-badge&logoColor=00F7FF&labelColor=000000" />
 
-"CREATIVE WEB"
+</div>
 
-<img src="https://skillicons.dev/icons?i=threejs,gsap" /><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,100:8a2be2&height=3&width=100%" />
 
-<sub>LENIS • SCROLLTRIGGER • ANIMATION • INTERACTIVE UI</sub>
+## 📊 GITHUB ANALYTICS
 
-</div><br/><!-- ========================= GITHUB ANALYTICS ========================= --><h2 align="center">◈ GITHUB ANALYTICS</h2><div align="center"><a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9&ring_color=00F5FF" />
-</a><a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" />
-</a></div><br/><div align="center"><a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=A78BFA&currStreakLabel=00F5FF" />
-</a></div><br/><!-- ========================= ACTIVITY ========================= --><h2 align="center">◈ ACTIVITY MATRIX</h2><div align="center"><a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00F5FF&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="95%" />
-</a></div><br/><!-- ========================= CONTRIBUTION SNAKE ========================= --><h2 align="center">◈ CONTRIBUTION SNAKE</h2><div align="center"><img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%" /></div><br/><!-- ========================= PROJECTS ========================= --><h2 align="center">◈ FEATURED PROJECTS</h2><div align="center"><table>
-<tr><td width="50%" valign="top">⚡ Portfolio Website
+<div align="center">
 
-A futuristic personal portfolio focused on interactive UI, animations and creative frontend experiences.
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" width="38%"/>
 
-Stack
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF" width="65%"/>
 
-"React" "JavaScript" "GSAP" "Three.js"
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=ffffff&hide_border=true" width="90%"/>
 
-" "SOURCE CODE" " (YOUR_PORTFOLIO_PROJECT_GITHUB_URL)
-" "LIVE DEMO" " (YOUR_PORTFOLIO_PROJECT_LIVE_URL)
+</div>
 
-</td><td width="50%" valign="top">💰 Personal Finance Tracker
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a2be2,100:00f7ff&height=3&width=100%" />
 
-A finance management application designed to track income, expenses and personal financial activity.
+## 🐍 CONTRIBUTION SNAKE
 
-Stack
+<div align="center">
 
-"React" "Node.js" "Express" "MongoDB"
+<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-" "SOURCE CODE" " (YOUR_FINANCE_PROJECT_GITHUB_URL)
-" "LIVE DEMO" " (YOUR_FINANCE_PROJECT_LIVE_URL)
+</div>
 
-</td></tr><tr><td width="50%" valign="top">🍱 Tiffin Ordering System
+> ⚠️ The snake animation requires a one-time GitHub Actions setup — see setup notes at the bottom of this file.
 
-A food ordering platform with user functionality and an admin dashboard for managing the system.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,100:8a2be2&height=3&width=100%" />
 
-Stack
+## 🚀 FEATURED PROJECTS
 
-"React" "JavaScript" "Node.js" "MongoDB"
-
-" "SOURCE CODE" " (YOUR_TIFFIN_PROJECT_GITHUB_URL)
-" "LIVE DEMO" " (YOUR_TIFFIN_PROJECT_LIVE_URL)
-
-</td><td width="50%" valign="top">🖥️ OS Simulation
-
-A browser-based operating-system simulation with a desktop-style interface and interactive components.
-
-Stack
-
-"HTML" "CSS" "JavaScript"
-
-" "SOURCE CODE" " (YOUR_OS_PROJECT_GITHUB_URL)
-" "LIVE DEMO" " (YOUR_OS_PROJECT_LIVE_URL)
-
-</td></tr><tr><td width="50%" valign="top">🧠 CKD Predictor
-
-A machine-learning based application designed around chronic kidney disease prediction and an interactive user experience.
-
-Stack
-
-"Python" "ML" "Flask" "React"
-
-" "SOURCE CODE" " (YOUR_CKD_PROJECT_GITHUB_URL)
-" "LIVE DEMO" " (YOUR_CKD_PROJECT_LIVE_URL)
-
-</td><td width="50%" valign="top">🤖 AI Experiments
-
-A growing collection of experiments exploring AI-powered applications, automation and intelligent developer tools.
-
-Stack
-
-"Python" "GenAI" "APIs" "React"
-
-" "SOURCE CODE" " (YOUR_AI_PROJECT_GITHUB_URL)
-
-</td></tr>
-</table></div><br/><!-- ========================= CURRENTLY LEARNING ========================= --><h2 align="center">◈ CURRENTLY LEARNING</h2><div align="center"><table>
+<table width="100%">
 <tr>
-<td align="center" width="25%">⚛️ React
+<td width="50%" valign="top">
 
-"BUILDING"
-
-</td><td align="center" width="25%">🟢 Node.js
-
-"BUILDING"
-
-</td><td align="center" width="25%">🚀 Express
-
-"LEARNING"
-
-</td><td align="center" width="25%">🍃 MongoDB
-
-"LEARNING"
+### 🌐 Portfolio Website
+Personal developer portfolio showcasing projects, skills and experience.
+<br/>**Stack:** `React` `Next.js` `Tailwind`
+<br/>🔗 [GitHub](https://github.com/your-github-username/portfolio) • [Live Demo](https://your-portfolio-url.com)
 
 </td>
-</tr><tr>
-<td align="center">🤖 GenAI
+<td width="50%" valign="top">
 
-"EXPLORING"
-
-</td><td align="center">🌌 Three.js
-
-"EXPLORING"
-
-</td><td align="center">🎬 GSAP
-
-"BUILDING"
-
-</td><td align="center">🐳 Docker
-
-"EXPLORING"
+### 💰 Personal Finance Tracker
+Web app to track income, expenses and visualize spending habits.
+<br/>**Stack:** `React` `Node.js` `MongoDB`
+<br/>🔗 [GitHub](https://github.com/your-github-username/finance-tracker) • Live Demo: _add-link-here_
 
 </td>
 </tr>
-</table></div><br/><div align="center">«No fake percentages. Just continuous progress.»
-
-"EXPLORE → LEARN → BUILD → BREAK → IMPROVE → SHIP"
-
-</div><br/><!-- ========================= TERMINAL ========================= --><h2 align="center">◈ DEVELOPER TERMINAL</h2><div align="center"><table>
 <tr>
-<td>┌──(viraj㉿developer)-[~/projects]
+<td width="50%" valign="top">
+
+### 🍱 Tiffin Ordering System
+Full-stack platform for ordering and managing daily tiffin subscriptions.
+<br/>**Stack:** `React` `Express.js` `MongoDB`
+<br/>🔗 [GitHub](https://github.com/your-github-username/tiffin-ordering-system) • Live Demo: _add-link-here_
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ OS Simulation
+Simulation of core operating system concepts such as scheduling and memory management.
+<br/>**Stack:** `C` `C++`
+<br/>🔗 [GitHub](https://github.com/your-github-username/os-simulation)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 CKD Predictor
+Machine learning model to predict Chronic Kidney Disease risk from patient data.
+<br/>**Stack:** `Python` `Scikit-learn` `Pandas`
+<br/>🔗 [GitHub](https://github.com/your-github-username/ckd-predictor)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI-Integrated Project
+_Add your AI project name and description here._
+<br/>**Stack:** `Python` `OpenAI/GenAI API`
+<br/>🔗 [GitHub](https://github.com/your-github-username/ai-project)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a2be2,100:00f7ff&height=3&width=100%" />
+
+## 🌱 CURRENTLY LEARNING
+
+<div align="center">
+
+| Technology | Status |
+|:--|:--:|
+| ⚛️ React | 🟢 Building |
+| 🟩 Node.js | 🟢 Building |
+| 🚂 Express.js | 🟡 Learning |
+| 🍃 MongoDB | 🟡 Learning |
+| 🧠 GenAI | 🔵 Exploring |
+| 🎮 Three.js | 🔵 Exploring |
+| ✨ GSAP | 🟣 Improving |
+| 🐳 Docker | 🔵 Exploring |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,100:8a2be2&height=3&width=100%" />
+
+## 💻 DEVELOPER TERMINAL
+
+```bash
+┌──(viraj㉿developer)-[~/projects]
 └─$ whoami
 
 Frontend Developer
 AI Enthusiast
 Creative Problem Solver
 
-
-┌──(viraj㉿developer)-[~/projects]
-└─$ cat mission.txt
-
-Build interfaces people remember.
-Learn technologies that matter.
-Turn ideas into real products.
-
-
 ┌──(viraj㉿developer)-[~/projects]
 └─$ npm run build-future
 
-> Initializing developer mode...
-> Loading creativity............. OK
-> Loading curiosity............. OK
-> Loading caffeine.............. OK
-> Compiling ideas............... OK
+> Building amazing things...
+> Compiling ideas into code...
+> Deploying to the future 🚀
+```
 
-> BUILD SUCCESSFUL ✓
+<div align="center">
 
-┌──(viraj㉿developer)-[~/projects]
-└─$ _
-
-</td>
-</tr>
-</table></div><br/><!-- ========================= FUN ========================= --><h2 align="center">◈ SYSTEM PHILOSOPHY</h2><div align="center">while (alive) {
-    learn();
-    build();
-    create();
-    improve();
+```js
+while (true) {
+  code();
+  learn();
+  ship();
 }
+```
 
-<br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+is+the+interface+between+ideas+and+reality.;Keep+building.;Keep+experimenting.;Keep+shipping." /></div><br/><!-- ========================= CONTACT ========================= --><h2 align="center">◈ LET'S BUILD SOMETHING AWESOME</h2><div align="center">If you're interested in technology, creative development, AI or building something interesting—
+</div>
 
-let's connect.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8a2be2,100:00f7ff&height=3&width=100%" />
 
-<br/><a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/%E2%9A%A1%20PORTFOLIO-00F5FF?style=for-the-badge&labelColor=050816" />
-</a> 
+## 📡 LET'S BUILD SOMETHING AWESOME
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816" />
-</a> 
+<div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=050816" />
-</a> 
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-FF4DFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816" />
-</a></div><br/><br/>
-
-<!-- ========================= FOOTER ========================= --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:111827,100:050816&animation=twinkling" width="100%" /><br/>"THANKS FOR VISITING MY PROFILE"
-
-<sub>Designed with curiosity • Built with code • Powered by imagination</sub>
+<a href="https://your-portfolio-url.com">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-0f0c29?style=for-the-badge&logo=vercel&logoColor=00F7FF&labelColor=000000" />
+</a>
+<a href="https://linkedin.com/in/your-linkedin-id">
+  <img src="https://img.shields.io/badge/LINKEDIN-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00F7FF&labelColor=000000" />
+</a>
+<a href="https://github.com/your-github-username">
+  <img src="https://img.shields.io/badge/GITHUB-0f0c29?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=000000" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/EMAIL-0f0c29?style=for-the-badge&logo=gmail&logoColor=00F7FF&labelColor=000000" />
+</a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=%3E+System.shutdown()%3B;%3E+See+you+in+the+next+commit...;%3E+01001001+01001110+01000110+01001001+01001110+01001001+01010100" /></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
+
+**Thanks for visiting my profile.** ⚡
+
+</div>
